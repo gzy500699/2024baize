@@ -1,2 +1,4 @@
 openai==1.13.3
 ruamel.yaml
+httpx
+base64
